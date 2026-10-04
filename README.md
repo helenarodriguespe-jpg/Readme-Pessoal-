@@ -1,23 +1,33 @@
-# Readme-Pessoal-
+## 👩‍💻 Sobre Mim
 
-Olá, eu sou Helena 👋
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou começando minha jornada na área de Tecnologia da Informação.
+Olá! Meu nome é **Helena**. Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou iniciando minha jornada na área de **Tecnologia da Informação**.
 
-Tenho interesse em aprender programação, desenvolvimento de sistemas e utilizar a tecnologia para criar soluções.
+Tenho interesse em aprender programação e desenvolvimento de sistemas, buscando constantemente aprimorar meus conhecimentos e desenvolver novas habilidades na área de tecnologia.
 
-O que estou aprendendo
-Lógica de Programação
-Git e GitHub
-HTML e CSS
-Desenvolvimento de Sistemas
-Meus objetivos
+### 🛠️ Tecnologias e Conhecimentos
 
-Quero aprender cada vez mais sobre tecnologia, desenvolver minhas habilidades e criar projetos durante minha formação.
+Atualmente, estou estudando e aprimorando meus conhecimentos em:
 
-Projetos
+* Lógica de programação;
+* Fundamentos de programação;
+* Conceitos de desenvolvimento de sistemas;
+* Markdown;
+* Git e GitHub.
 
-Ainda estou aprendendo e em breve adicionarei meus primeiros projetos.
+### 🔍 Interesses na Área de Desenvolvimento
 
-Contato
+Tenho interesse em:
 
-LinkedIn:linkedin.com/in/helena-rodrigues-a30704356
+* Desenvolvimento de sistemas;
+* Programação;
+* Criação de aplicações;
+* Aprendizado contínuo em tecnologia.
+
+### 🚀 Próximos Passos
+
+Durante minha formação em **Análise e Desenvolvimento de Sistemas**, pretendo desenvolver novos projetos, ampliar meus conhecimentos em programação e construir meu **portfólio profissional**.
+
+---
+
+**Autora:** Helena 👩‍💻
+
